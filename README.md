@@ -1,4 +1,4 @@
-# Prompt 8 Contract Validation Smoke Test
+# Contract Validation Smoke Test
 
 **What it teaches:** how to validate the contract package independently,
 before any backend implementation starts. If the shared contract
